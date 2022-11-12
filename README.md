@@ -24,7 +24,7 @@ Multiple bad experiences or even one and the company might lose a good customer.
 Hence, it becomes crucial to monitor customer churn and prevent the firm from losing clients and profits.
 
 The dataset is from kaggle - 
-https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction?scriptVersionId=67014939&cellId=12
+[Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 **The algorithms implemented are:**
 * GaussianNB
