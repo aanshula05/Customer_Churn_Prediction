@@ -22,3 +22,13 @@ Customer churn prediction helps us to:
 Customer retention becomes really important these days considering the competition in the market. Today, the customers are free to choose from plenty of providers even within one product category. 
 Multiple bad experiences or even one and the company might lose a good customer. 
 Hence, it becomes crucial to monitor customer churn and prevent the firm from losing clients and profits.
+
+The dataset is from kaggle - [Link] (kaggle kernels output bhartiprasad17/customer-churn-prediction -p /path/to/dest)
+
+*The algorithms implemented are:
+* GaussianNB
+* Linear SVC
+* Random Forest Classifier
+* Logistic Regression
+* AdaBoost Classifier
+* Gradient Boosting Classifier
