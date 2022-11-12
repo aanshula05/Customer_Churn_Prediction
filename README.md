@@ -16,7 +16,7 @@ Customer churn prediction helps us to:
 - Identify customer pain points
 - Identifying strategy to lower churn and increase the customer retention.
 
-* Formula to calculate churn rate is-
+>Formula to calculate churn rate is-
 ![image](https://user-images.githubusercontent.com/99156893/201461487-8fbc0e45-09ab-4f19-9f46-1d71085b532b.png)
 
 Customer retention becomes really important these days considering the competition in the market. Today, the customers are free to choose from plenty of providers even within one product category. 
