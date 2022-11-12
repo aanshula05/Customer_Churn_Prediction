@@ -10,10 +10,11 @@ It is a measure of customer satisfaction and low churn rates indicate more happy
 
 There are multiple companies for a customer to choose in the telecom industry and they are bound to switch from one to the next based on their level of satisfaction with the services.
 The impact of the churn rate is pretty clear which makes it important to come up with effective strategies to reduce churn rate. By predicting churn, businesses can create good marketing strategies to target the consumers that are bound to churn.
+
 Customer churn prediction helps us to:
-•	Identify the customers at risk
-•	Identify customer pain points
-•	Identifying strategy to lower churn and increase the customer retention.
+- Identify the customers at risk
+- Identify customer pain points
+- Identifying strategy to lower churn and increase the customer retention.
 
 * Formula to calculate churn rate is-
 ![image](https://user-images.githubusercontent.com/99156893/201461487-8fbc0e45-09ab-4f19-9f46-1d71085b532b.png)
