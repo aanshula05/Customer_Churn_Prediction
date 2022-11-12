@@ -23,7 +23,7 @@ Customer retention becomes really important these days considering the competiti
 Multiple bad experiences or even one and the company might lose a good customer. 
 Hence, it becomes crucial to monitor customer churn and prevent the firm from losing clients and profits.
 
-The dataset is from kaggle - [Link](kaggle kernels output bhartiprasad17/customer-churn-prediction -p /path/to/dest)
+The dataset is from kaggle - (kaggle kernels output bhartiprasad17/customer-churn-prediction -p /path/to/dest)
 
 **The algorithms implemented are:**
 * GaussianNB
